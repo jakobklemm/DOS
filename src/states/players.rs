@@ -34,6 +34,106 @@ impl Player {
 
         Ok((name, distance))
     }
+
+    pub fn position(&self) -> Result<Position, TABError> {
+        if self.distances.len() < 3 {
+            // return Err(TABError::default());
+        }
+
+        let mut p1 = Source::new();
+        let mut p2 = Source::new();
+        let mut p3 = Source::new();
+
+        let mut rs: [f64; 3] = [0.0; 3];
+
+        println!("info: {:?}", self);
+
+        // let sources: Vec<Source> = self.distances.into_values().collect();
+
+        for (i, (source, distance)) in self.distances.iter().enumerate() {
+            rs[i] = *distance;
+
+            println!("{}", i);
+
+            match i {
+                0 => {
+                    p1 = source.clone();
+                }
+                1 => {
+                    p2 = source.clone();
+                }
+                2 => {
+                    p3 = source.clone();
+                }
+                _ => break
+            }
+        }
+
+        println!("{:?}", rs);
+
+        println!("p1: {:?}", p1);
+        println!("p2: {:?}", p2);
+
+        let d_x = (p2.position.x - p1.position.x).pow(2) as f64;
+        let d_y = (p2.position.z - p1.position.z).pow(2) as f64;
+        let d = (d_x + d_y).sqrt();
+
+        println!("d: {}", d);
+
+        let a = (rs[0].powi(2) - rs[1].powi(2) + d.powi(2)) / (2.0 * d);
+
+        println!("a: {}", a);
+
+        let h = (rs[0].powi(2) - a.powi(2)).sqrt();
+
+        println!("h: {}", h);
+
+        let mid_x = p1.position.x as f64 + a * ((p2.position.x as f64 - p1.position.x as f64) / d);
+        let mid_z = p1.position.z as f64 + a * ((p2.position.z as f64 - p1.position.z as f64) / d);
+
+        println!("mid: {}, {}", mid_x, mid_z);
+        
+        let p_x_1 = mid_x + h * (p2.position.z as f64 - p1.position.z as f64) / d;
+        let p_z_1 = mid_z + h * (p2.position.x as f64 - p1.position.x as f64) / d;
+
+        let p_x_2 = mid_x - h * (p2.position.z as f64 - p1.position.z as f64) / d;
+        let p_z_2 = mid_z - h * (p2.position.x as f64 - p1.position.x as f64) / d;
+
+        println!("p1: {}, {}", p_x_1, p_z_1);
+        println!("p2: {}, {}", p_x_2, p_z_2);
+
+        let dist_to_x_1 = (p_x_1 + p3.position.x as f64).powi(2);
+        let dist_to_z_1 = (p_z_1 + p3.position.z as f64).powi(2);
+
+        let dist_1 = (dist_to_x_1 + dist_to_z_1).sqrt();
+
+        let dist_to_x_2 = (p_x_2 + p3.position.x as f64).powi(2);
+        let dist_to_z_2 = (p_z_2 + p3.position.z as f64).powi(2);
+
+        let dist_2 = (dist_to_x_2 + dist_to_z_2).sqrt();
+
+        let diff_1 = (rs[2] - dist_1).abs();
+        let diff_2 = (rs[2] - dist_2).abs();
+
+        if diff_1 < diff_2 {
+            let p = Position {
+                x: p_x_1 as i64,
+                y: 0,
+                z: p_z_1 as i64
+            };
+            println!("Final: {:?}", p);
+            return Ok(p);
+        } else {
+            let p = Position {
+                x: p_x_2 as i64,
+                y: 0,
+                z: p_z_2 as i64
+            };
+            println!("Final: {:?}", p);
+            return Ok(p);
+        }
+
+    }
 }
 
 #[derive(Eq, PartialEq, Clone, Debug, Hash)]
