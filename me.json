@@ -1,0 +1,8030 @@
+[
+  {
+    "package": "techreborn",
+    "name": "uumatter",
+    "damage": "0",
+    "count": "277839"
+  },
+  {
+    "package": "minecraft",
+    "name": "cobblestone",
+    "damage": "0",
+    "count": "113165"
+  },
+  {
+    "package": "minecraft",
+    "name": "sapling",
+    "damage": "0",
+    "count": "63401"
+  },
+  {
+    "package": "ic2",
+    "name": "crafting",
+    "damage": "0",
+    "count": "33964"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "stone",
+    "damage": "2",
+    "count": "26683"
+  },
+  {
+    "package": "minecraft",
+    "name": "dirt",
+    "damage": "0",
+    "count": "19701"
+  },
+  {
+    "package": "hbm",
+    "name": "stone_gneiss",
+    "damage": "0",
+    "count": "17844"
+  },
+  {
+    "package": "minecraft",
+    "name": "apple",
+    "damage": "0",
+    "count": "12715"
+  },
+  {
+    "package": "minecraft",
+    "name": "log",
+    "damage": "0",
+    "count": "8472"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone",
+    "damage": "0",
+    "count": "8283"
+  },
+  {
+    "package": "chisel",
+    "name": "block_charcoal2",
+    "damage": "1",
+    "count": "8142"
+  },
+  {
+    "package": "minecraft",
+    "name": "redstone",
+    "damage": "0",
+    "count": "5766"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_fire",
+    "damage": "0",
+    "count": "4631"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_u238",
+    "damage": "0",
+    "count": "4594"
+  },
+  {
+    "package": "minecraft",
+    "name": "bread",
+    "damage": "0",
+    "count": "4392"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_aluminium",
+    "damage": "0",
+    "count": "3349"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_lapis",
+    "damage": "0",
+    "count": "3091"
+  },
+  {
+    "package": "hbm",
+    "name": "sellafield_core",
+    "damage": "0",
+    "count": "2884"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_plutonium",
+    "damage": "0",
+    "count": "2787"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_lithium_tiny",
+    "damage": "0",
+    "count": "2700"
+  },
+  {
+    "package": "ic2",
+    "name": "sapling",
+    "damage": "0",
+    "count": "2541"
+  },
+  {
+    "package": "minecraft",
+    "name": "netherrack",
+    "damage": "0",
+    "count": "2274"
+  },
+  {
+    "package": "railcraft",
+    "name": "dust",
+    "damage": "4",
+    "count": "2079"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "132",
+    "count": "1708"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_copper",
+    "damage": "0",
+    "count": "1648"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_scaffold",
+    "damage": "0",
+    "count": "1515"
+  },
+  {
+    "package": "hbm",
+    "name": "fragment_meteorite",
+    "damage": "0",
+    "count": "1458"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "105",
+    "count": "1441"
+  },
+  {
+    "package": "minecraft",
+    "name": "glowstone_dust",
+    "damage": "0",
+    "count": "1365"
+  },
+  {
+    "package": "minecraft",
+    "name": "blaze_powder",
+    "damage": "0",
+    "count": "1361"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "15",
+    "count": "1328"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_ra226",
+    "damage": "0",
+    "count": "1261"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_uranium",
+    "damage": "0",
+    "count": "1189"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_coal",
+    "damage": "0",
+    "count": "1187"
+  },
+  {
+    "package": "minecraft",
+    "name": "bone",
+    "damage": "0",
+    "count": "1169"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_smooth",
+    "damage": "0",
+    "count": "1136"
+  },
+  {
+    "package": "hbm",
+    "name": "stone_depth",
+    "damage": "0",
+    "count": "1133"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "ore",
+    "damage": "1",
+    "count": "1132"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_iron",
+    "damage": "0",
+    "count": "1088"
+  },
+  {
+    "package": "forestry",
+    "name": "resources",
+    "damage": "0",
+    "count": "1069"
+  },
+  {
+    "package": "railcraft",
+    "name": "generic",
+    "damage": "8",
+    "count": "1066"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_lead",
+    "damage": "0",
+    "count": "1058"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_coal",
+    "damage": "0",
+    "count": "1047"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "ore",
+    "damage": "2",
+    "count": "1047"
+  },
+  {
+    "package": "hbm",
+    "name": "brick_concrete",
+    "damage": "0",
+    "count": "996"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "ore",
+    "damage": "0",
+    "count": "990"
+  },
+  {
+    "package": "techreborn",
+    "name": "ore",
+    "damage": "4",
+    "count": "979"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_thorium",
+    "damage": "0",
+    "count": "956"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_plutonium",
+    "damage": "0",
+    "count": "934"
+  },
+  {
+    "package": "techreborn",
+    "name": "ore",
+    "damage": "0",
+    "count": "890"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "4",
+    "count": "883"
+  },
+  {
+    "package": "minecraft",
+    "name": "arrow",
+    "damage": "0",
+    "count": "875"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_mercury",
+    "damage": "0",
+    "count": "871"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_lead",
+    "damage": "0",
+    "count": "863"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_nitan_mix",
+    "damage": "0",
+    "count": "862"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_uranium",
+    "damage": "0",
+    "count": "857"
+  },
+  {
+    "package": "minecraft",
+    "name": "tnt",
+    "damage": "0",
+    "count": "856"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_gold",
+    "damage": "0",
+    "count": "822"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_titanium",
+    "damage": "0",
+    "count": "814"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_cobalt",
+    "damage": "0",
+    "count": "789"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_gold",
+    "damage": "0",
+    "count": "756"
+  },
+  {
+    "package": "minecraft",
+    "name": "coal",
+    "damage": "0",
+    "count": "734"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "201",
+    "count": "728"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "200",
+    "count": "713"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_titanium",
+    "damage": "0",
+    "count": "692"
+  },
+  {
+    "package": "hbm",
+    "name": "cap_nuka",
+    "damage": "0",
+    "count": "668"
+  },
+  {
+    "package": "minecraft",
+    "name": "gravel",
+    "damage": "0",
+    "count": "663"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_yellowcake",
+    "damage": "0",
+    "count": "650"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_power",
+    "damage": "0",
+    "count": "625"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "ore",
+    "damage": "6",
+    "count": "625"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "128",
+    "count": "618"
+  },
+  {
+    "package": "minecraft",
+    "name": "torch",
+    "damage": "0",
+    "count": "614"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_diamond",
+    "damage": "0",
+    "count": "611"
+  },
+  {
+    "package": "hbm",
+    "name": "fragment_cobalt",
+    "damage": "0",
+    "count": "608"
+  },
+  {
+    "package": "minecraft",
+    "name": "rotten_flesh",
+    "damage": "0",
+    "count": "600"
+  },
+  {
+    "package": "minecraft",
+    "name": "snowball",
+    "damage": "0",
+    "count": "598"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_desh_mix",
+    "damage": "0",
+    "count": "590"
+  },
+  {
+    "package": "minecraft",
+    "name": "glass",
+    "damage": "0",
+    "count": "589"
+  },
+  {
+    "package": "ic2",
+    "name": "ingot",
+    "damage": "7",
+    "count": "586"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_phosphorus",
+    "damage": "0",
+    "count": "561"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "202",
+    "count": "550"
+  },
+  {
+    "package": "minecraft",
+    "name": "soul_sand",
+    "damage": "0",
+    "count": "528"
+  },
+  {
+    "package": "minecraft",
+    "name": "planks",
+    "damage": "0",
+    "count": "523"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_zirconium",
+    "damage": "0",
+    "count": "492"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "ore",
+    "damage": "5",
+    "count": "483"
+  },
+  {
+    "package": "projectx",
+    "name": "xycronium_crystal",
+    "damage": "3",
+    "count": "480"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_gneiss_uranium",
+    "damage": "0",
+    "count": "457"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_dura_steel",
+    "damage": "0",
+    "count": "456"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_redstone",
+    "damage": "0",
+    "count": "446"
+  },
+  {
+    "package": "minecraft",
+    "name": "magma",
+    "damage": "0",
+    "count": "439"
+  },
+  {
+    "package": "minecraft",
+    "name": "end_stone",
+    "damage": "0",
+    "count": "427"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "770",
+    "count": "416"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_phosphorus",
+    "damage": "0",
+    "count": "410"
+  },
+  {
+    "package": "projectx",
+    "name": "xycronium_crystal",
+    "damage": "0",
+    "count": "399"
+  },
+  {
+    "package": "hbm",
+    "name": "gravel_diamond",
+    "damage": "0",
+    "count": "399"
+  },
+  {
+    "package": "projectx",
+    "name": "xycronium_crystal",
+    "damage": "4",
+    "count": "388"
+  },
+  {
+    "package": "projectx",
+    "name": "xycronium_crystal",
+    "damage": "1",
+    "count": "387"
+  },
+  {
+    "package": "minecraft",
+    "name": "quartz_ore",
+    "damage": "0",
+    "count": "382"
+  },
+  {
+    "package": "minecraft",
+    "name": "obsidian",
+    "damage": "0",
+    "count": "377"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "ore",
+    "damage": "2",
+    "count": "376"
+  },
+  {
+    "package": "minecraft",
+    "name": "redstone_block",
+    "damage": "0",
+    "count": "373"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "ore",
+    "damage": "1",
+    "count": "367"
+  },
+  {
+    "package": "projectx",
+    "name": "xycronium_crystal",
+    "damage": "2",
+    "count": "359"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_tungsten",
+    "damage": "0",
+    "count": "359"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "69",
+    "count": "352"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "ore_quartz",
+    "damage": "0",
+    "count": "348"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_beryllium",
+    "damage": "0",
+    "count": "347"
+  },
+  {
+    "package": "railcraft",
+    "name": "tank_steel_wall",
+    "damage": "0",
+    "count": "324"
+  },
+  {
+    "package": "minecraft",
+    "name": "redstone_ore",
+    "damage": "0",
+    "count": "319"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_u235",
+    "damage": "0",
+    "count": "315"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_astatine",
+    "damage": "0",
+    "count": "306"
+  },
+  {
+    "package": "minecraft",
+    "name": "log",
+    "damage": "3",
+    "count": "306"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "crystal_essence",
+    "damage": "0",
+    "count": "302"
+  },
+  {
+    "package": "hbm",
+    "name": "wire_advanced_alloy",
+    "damage": "0",
+    "count": "279"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "68",
+    "count": "269"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_ingot",
+    "damage": "0",
+    "count": "269"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "15",
+    "count": "264"
+  },
+  {
+    "package": "minecraft",
+    "name": "lapis_ore",
+    "damage": "0",
+    "count": "263"
+  },
+  {
+    "package": "hbm",
+    "name": "asphalt",
+    "damage": "0",
+    "count": "255"
+  },
+  {
+    "package": "minecraft",
+    "name": "coal_ore",
+    "damage": "0",
+    "count": "252"
+  },
+  {
+    "package": "hbm",
+    "name": "lignite",
+    "damage": "0",
+    "count": "238"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_gneiss_copper",
+    "damage": "0",
+    "count": "237"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "storage_alloy",
+    "damage": "0",
+    "count": "232"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_polonium",
+    "damage": "0",
+    "count": "230"
+  },
+  {
+    "package": "hbm",
+    "name": "factory_titanium_hull",
+    "damage": "0",
+    "count": "229"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_thorium",
+    "damage": "0",
+    "count": "226"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_schrabidium",
+    "damage": "0",
+    "count": "225"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "tinydryrubber",
+    "damage": "0",
+    "count": "223"
+  },
+  {
+    "package": "minecraft",
+    "name": "gold_ingot",
+    "damage": "0",
+    "count": "223"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_gneiss_gold",
+    "damage": "0",
+    "count": "214"
+  },
+  {
+    "package": "minecraft",
+    "name": "wheat_seeds",
+    "damage": "0",
+    "count": "210"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_tungsten",
+    "damage": "0",
+    "count": "209"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "pink_slime",
+    "damage": "0",
+    "count": "208"
+  },
+  {
+    "package": "hbm",
+    "name": "fluorite",
+    "damage": "0",
+    "count": "202"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "0",
+    "count": "201"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "ore",
+    "damage": "6",
+    "count": "200"
+  },
+  {
+    "package": "minecraft",
+    "name": "nether_wart",
+    "damage": "0",
+    "count": "199"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_titanium",
+    "damage": "0",
+    "count": "198"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "135",
+    "count": "193"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_cobalt",
+    "damage": "0",
+    "count": "190"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "134",
+    "count": "190"
+  },
+  {
+    "package": "hbm",
+    "name": "coal_infernal",
+    "damage": "0",
+    "count": "187"
+  },
+  {
+    "package": "forestry",
+    "name": "apatite",
+    "damage": "0",
+    "count": "187"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_polonium",
+    "damage": "0",
+    "count": "186"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "ore",
+    "damage": "3",
+    "count": "184"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "ore_amber",
+    "damage": "0",
+    "count": "183"
+  },
+  {
+    "package": "modularforcefieldsystem",
+    "name": "monazit_ore",
+    "damage": "0",
+    "count": "179"
+  },
+  {
+    "package": "microblockcbe",
+    "name": "microblock",
+    "damage": "513",
+    "count": "178"
+  },
+  {
+    "package": "chisel",
+    "name": "basalt",
+    "damage": "1",
+    "count": "176"
+  },
+  {
+    "package": "hbm",
+    "name": "solid_fuel",
+    "damage": "0",
+    "count": "176"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_asbestos",
+    "damage": "0",
+    "count": "176"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_gneiss_iron",
+    "damage": "0",
+    "count": "175"
+  },
+  {
+    "package": "hbm",
+    "name": "fragment_lanthanium",
+    "damage": "0",
+    "count": "175"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_asbestos",
+    "damage": "0",
+    "count": "174"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "103",
+    "count": "173"
+  },
+  {
+    "package": "minecraft",
+    "name": "diamond_ore",
+    "damage": "0",
+    "count": "169"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "131",
+    "count": "167"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "ore",
+    "damage": "7",
+    "count": "167"
+  },
+  {
+    "package": "chisel",
+    "name": "cobblestone",
+    "damage": "3",
+    "count": "165"
+  },
+  {
+    "package": "hbm",
+    "name": "fragment_niobium",
+    "damage": "0",
+    "count": "164"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "864",
+    "count": "164"
+  },
+  {
+    "package": "hbm",
+    "name": "reinforced_sand",
+    "damage": "0",
+    "count": "161"
+  },
+  {
+    "package": "hbm",
+    "name": "neutron_reflector",
+    "damage": "0",
+    "count": "161"
+  },
+  {
+    "package": "projectred-transmission",
+    "name": "wire",
+    "damage": "0",
+    "count": "159"
+  },
+  {
+    "package": "ic2",
+    "name": "crafting",
+    "damage": "1",
+    "count": "159"
+  },
+  {
+    "package": "hbm",
+    "name": "cinnebar",
+    "damage": "0",
+    "count": "156"
+  },
+  {
+    "package": "minecraft",
+    "name": "gold_ore",
+    "damage": "0",
+    "count": "156"
+  },
+  {
+    "package": "techreborn",
+    "name": "plates",
+    "damage": "35",
+    "count": "155"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_revolver_ammo",
+    "damage": "0",
+    "count": "152"
+  },
+  {
+    "package": "minecraft",
+    "name": "emerald_ore",
+    "damage": "0",
+    "count": "152"
+  },
+  {
+    "package": "minecraft",
+    "name": "rail",
+    "damage": "0",
+    "count": "150"
+  },
+  {
+    "package": "simplecorn",
+    "name": "kernels",
+    "damage": "0",
+    "count": "149"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "130",
+    "count": "146"
+  },
+  {
+    "package": "minecraft",
+    "name": "mycelium",
+    "damage": "0",
+    "count": "146"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "5",
+    "count": "142"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "133",
+    "count": "142"
+  },
+  {
+    "package": "extratrees",
+    "name": "hops",
+    "damage": "0",
+    "count": "140"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_bars",
+    "damage": "0",
+    "count": "140"
+  },
+  {
+    "package": "retroexchange",
+    "name": "transmutation_shard",
+    "damage": "0",
+    "count": "139"
+  },
+  {
+    "package": "hbm",
+    "name": "wire_gold",
+    "damage": "0",
+    "count": "139"
+  },
+  {
+    "package": "minecraft",
+    "name": "blaze_rod",
+    "damage": "0",
+    "count": "139"
+  },
+  {
+    "package": "minecraft",
+    "name": "brick_block",
+    "damage": "0",
+    "count": "139"
+  },
+  {
+    "package": "hbm",
+    "name": "primer_9",
+    "damage": "0",
+    "count": "138"
+  },
+  {
+    "package": "minecraft",
+    "name": "quartz",
+    "damage": "0",
+    "count": "138"
+  },
+  {
+    "package": "minecraft",
+    "name": "clay",
+    "damage": "0",
+    "count": "136"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_spark_mix",
+    "damage": "0",
+    "count": "135"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "2048",
+    "count": "135"
+  },
+  {
+    "package": "hbm",
+    "name": "block_white_phosphorus",
+    "damage": "0",
+    "count": "129"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_combine_steel",
+    "damage": "0",
+    "count": "129"
+  },
+  {
+    "package": "minecraft",
+    "name": "dirt",
+    "damage": "2",
+    "count": "129"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_advanced_alloy",
+    "damage": "0",
+    "count": "128"
+  },
+  {
+    "package": "minecraft",
+    "name": "diamond",
+    "damage": "0",
+    "count": "127"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_polonium",
+    "damage": "0",
+    "count": "126"
+  },
+  {
+    "package": "hbm",
+    "name": "oil_tar",
+    "damage": "0",
+    "count": "125"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "129",
+    "count": "125"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_oil_empty",
+    "damage": "0",
+    "count": "119"
+  },
+  {
+    "package": "minecraft",
+    "name": "stick",
+    "damage": "0",
+    "count": "115"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_beryllium",
+    "damage": "0",
+    "count": "107"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_slab",
+    "damage": "3",
+    "count": "107"
+  },
+  {
+    "package": "chisel",
+    "name": "basalt",
+    "damage": "8",
+    "count": "106"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "866",
+    "count": "106"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_gray",
+    "damage": "0",
+    "count": "105"
+  },
+  {
+    "package": "hbm",
+    "name": "fragment_cerium",
+    "damage": "0",
+    "count": "105"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "23",
+    "count": "104"
+  },
+  {
+    "package": "hbm",
+    "name": "casing_9",
+    "damage": "0",
+    "count": "102"
+  },
+  {
+    "package": "minecraft",
+    "name": "mossy_cobblestone",
+    "damage": "0",
+    "count": "100"
+  },
+  {
+    "package": "chisel",
+    "name": "basalt",
+    "damage": "15",
+    "count": "99"
+  },
+  {
+    "package": "immersiveengineering",
+    "name": "seed",
+    "damage": "0",
+    "count": "97"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_lead",
+    "damage": "0",
+    "count": "97"
+  },
+  {
+    "package": "hbm",
+    "name": "ammo_20gauge",
+    "damage": "0",
+    "count": "97"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_copper",
+    "damage": "0",
+    "count": "96"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "50",
+    "count": "95"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_poles",
+    "damage": "0",
+    "count": "95"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_pu240",
+    "damage": "0",
+    "count": "95"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "quartz_ore",
+    "damage": "0",
+    "count": "94"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_saturnite",
+    "damage": "0",
+    "count": "90"
+  },
+  {
+    "package": "minecraft",
+    "name": "nether_brick",
+    "damage": "0",
+    "count": "88"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "11",
+    "count": "87"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "66",
+    "count": "87"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "6",
+    "count": "85"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_uranium",
+    "damage": "0",
+    "count": "85"
+  },
+  {
+    "package": "ic2",
+    "name": "cable",
+    "damage": "1",
+    "count": "85"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "0",
+    "count": "84"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "amber",
+    "damage": "0",
+    "count": "84"
+  },
+  {
+    "package": "railcraft",
+    "name": "fluid_bottle_creosote",
+    "damage": "0",
+    "count": "84"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "43",
+    "count": "83"
+  },
+  {
+    "package": "hbm",
+    "name": "barbed_wire_poison",
+    "damage": "0",
+    "count": "83"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_pu238",
+    "damage": "0",
+    "count": "80"
+  },
+  {
+    "package": "minecraft",
+    "name": "paper",
+    "damage": "0",
+    "count": "80"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "30",
+    "count": "79"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "ore_cinnabar",
+    "damage": "0",
+    "count": "79"
+  },
+  {
+    "package": "minecraft",
+    "name": "cactus",
+    "damage": "0",
+    "count": "79"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_slab",
+    "damage": "0",
+    "count": "79"
+  },
+  {
+    "package": "hbm",
+    "name": "fragment_neodymium",
+    "damage": "0",
+    "count": "78"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_lithium",
+    "damage": "0",
+    "count": "77"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_tungsten",
+    "damage": "0",
+    "count": "77"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_schrabidium",
+    "damage": "0",
+    "count": "77"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "163",
+    "count": "76"
+  },
+  {
+    "package": "hbm",
+    "name": "meteor_polished",
+    "damage": "0",
+    "count": "75"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_green",
+    "damage": "0",
+    "count": "75"
+  },
+  {
+    "package": "hbm",
+    "name": "dust",
+    "damage": "0",
+    "count": "75"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "771",
+    "count": "75"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_tungsten",
+    "damage": "0",
+    "count": "73"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_semtex",
+    "damage": "0",
+    "count": "72"
+  },
+  {
+    "package": "hbm",
+    "name": "scrap",
+    "damage": "0",
+    "count": "71"
+  },
+  {
+    "package": "hbm",
+    "name": "fusion_heater",
+    "damage": "0",
+    "count": "70"
+  },
+  {
+    "package": "minecraft",
+    "name": "glowstone",
+    "damage": "0",
+    "count": "70"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "ore",
+    "damage": "0",
+    "count": "68"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "288",
+    "count": "68"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "brain",
+    "damage": "0",
+    "count": "67"
+  },
+  {
+    "package": "railcraft",
+    "name": "coke_oven",
+    "damage": "0",
+    "count": "66"
+  },
+  {
+    "package": "hbm",
+    "name": "fragment_boron",
+    "damage": "0",
+    "count": "65"
+  },
+  {
+    "package": "minecraft",
+    "name": "chorus_fruit",
+    "damage": "0",
+    "count": "65"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "part",
+    "damage": "16",
+    "count": "64"
+  },
+  {
+    "package": "hbm",
+    "name": "nuclear_waste_tiny",
+    "damage": "0",
+    "count": "64"
+  },
+  {
+    "package": "hbm",
+    "name": "barbed_wire",
+    "damage": "0",
+    "count": "63"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "772",
+    "count": "63"
+  },
+  {
+    "package": "hbm",
+    "name": "fluid_duct_mk2",
+    "damage": "0",
+    "count": "61"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "8",
+    "count": "61"
+  },
+  {
+    "package": "minecraft",
+    "name": "wheat",
+    "damage": "0",
+    "count": "61"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "225",
+    "count": "60"
+  },
+  {
+    "package": "hbm",
+    "name": "brick_light",
+    "damage": "0",
+    "count": "59"
+  },
+  {
+    "package": "hbm",
+    "name": "bottle_nuka",
+    "damage": "0",
+    "count": "58"
+  },
+  {
+    "package": "minecraft",
+    "name": "brick",
+    "damage": "0",
+    "count": "58"
+  },
+  {
+    "package": "minecraft",
+    "name": "flint",
+    "damage": "0",
+    "count": "58"
+  },
+  {
+    "package": "ic2",
+    "name": "energy_crystal",
+    "damage": "26",
+    "count": "57"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_aluminium",
+    "damage": "0",
+    "count": "56"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "0",
+    "count": "56"
+  },
+  {
+    "package": "advanced_solar_panels",
+    "name": "crafting",
+    "damage": "0",
+    "count": "56"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "324",
+    "count": "55"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "33",
+    "count": "55"
+  },
+  {
+    "package": "minecraft",
+    "name": "ender_pearl",
+    "damage": "0",
+    "count": "53"
+  },
+  {
+    "package": "hbm",
+    "name": "sellafield_1",
+    "damage": "0",
+    "count": "52"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_beam",
+    "damage": "0",
+    "count": "51"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_steel",
+    "damage": "0",
+    "count": "51"
+  },
+  {
+    "package": "hbm",
+    "name": "cell",
+    "damage": "0",
+    "count": "51"
+  },
+  {
+    "package": "hbm",
+    "name": "brick_concrete_stairs",
+    "damage": "0",
+    "count": "50"
+  },
+  {
+    "package": "minecraft",
+    "name": "glass_bottle",
+    "damage": "0",
+    "count": "49"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_button",
+    "damage": "0",
+    "count": "49"
+  },
+  {
+    "package": "hbm",
+    "name": "block_graphite",
+    "damage": "0",
+    "count": "48"
+  },
+  {
+    "package": "hbm",
+    "name": "block_tungsten",
+    "damage": "0",
+    "count": "48"
+  },
+  {
+    "package": "hbm",
+    "name": "wire_red_copper",
+    "damage": "0",
+    "count": "48"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_fiberglass",
+    "damage": "0",
+    "count": "48"
+  },
+  {
+    "package": "ic2",
+    "name": "crafting",
+    "damage": "3",
+    "count": "48"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "24",
+    "count": "47"
+  },
+  {
+    "package": "chisel",
+    "name": "cobblestone",
+    "damage": "15",
+    "count": "47"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_nether_fire",
+    "damage": "0",
+    "count": "47"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "0",
+    "count": "47"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_black_stairs",
+    "damage": "0",
+    "count": "46"
+  },
+  {
+    "package": "hbm",
+    "name": "plate_titanium",
+    "damage": "0",
+    "count": "45"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_nugget",
+    "damage": "0",
+    "count": "45"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "7",
+    "count": "42"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "42",
+    "count": "42"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_oil",
+    "damage": "0",
+    "count": "42"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_lignite",
+    "damage": "0",
+    "count": "42"
+  },
+  {
+    "package": "railcraft",
+    "name": "tank_steel_gauge",
+    "damage": "0",
+    "count": "42"
+  },
+  {
+    "package": "minecraft",
+    "name": "reeds",
+    "damage": "0",
+    "count": "42"
+  },
+  {
+    "package": "minecraft",
+    "name": "furnace",
+    "damage": "0",
+    "count": "42"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "2",
+    "count": "41"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_16",
+    "damage": "0",
+    "count": "40"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_revolver_gold_ammo",
+    "damage": "0",
+    "count": "40"
+  },
+  {
+    "package": "microblockcbe",
+    "name": "microblock",
+    "damage": "1",
+    "count": "40"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "893",
+    "count": "40"
+  },
+  {
+    "package": "minecraft",
+    "name": "carrot",
+    "damage": "0",
+    "count": "40"
+  },
+  {
+    "package": "hbm",
+    "name": "fence_metal",
+    "damage": "0",
+    "count": "39"
+  },
+  {
+    "package": "minecraft",
+    "name": "clay_ball",
+    "damage": "0",
+    "count": "39"
+  },
+  {
+    "package": "minecraft",
+    "name": "sapling",
+    "damage": "4",
+    "count": "39"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_0",
+    "damage": "6",
+    "count": "37"
+  },
+  {
+    "package": "hbm",
+    "name": "wire_tungsten",
+    "damage": "0",
+    "count": "37"
+  },
+  {
+    "package": "minecraft",
+    "name": "coal_block",
+    "damage": "0",
+    "count": "36"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_tikite",
+    "damage": "0",
+    "count": "35"
+  },
+  {
+    "package": "minecraft",
+    "name": "yellow_flower",
+    "damage": "0",
+    "count": "35"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_advanced",
+    "damage": "0",
+    "count": "34"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_kit_1",
+    "damage": "0",
+    "count": "34"
+  },
+  {
+    "package": "minecraft",
+    "name": "bucket",
+    "damage": "0",
+    "count": "34"
+  },
+  {
+    "package": "flansmod",
+    "name": "gunpowderblock",
+    "damage": "0",
+    "count": "33"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "nugget",
+    "damage": "10",
+    "count": "33"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_0",
+    "damage": "0",
+    "count": "33"
+  },
+  {
+    "package": "hbm",
+    "name": "factory_titanium_furnace",
+    "damage": "0",
+    "count": "33"
+  },
+  {
+    "package": "hbm",
+    "name": "solar_mirror",
+    "damage": "0",
+    "count": "33"
+  },
+  {
+    "package": "minecraft",
+    "name": "mutton",
+    "damage": "0",
+    "count": "33"
+  },
+  {
+    "package": "minecraft",
+    "name": "log2",
+    "damage": "0",
+    "count": "33"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "327",
+    "count": "32"
+  },
+  {
+    "package": "minecraft",
+    "name": "melon",
+    "damage": "0",
+    "count": "32"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "1",
+    "count": "32"
+  },
+  {
+    "package": "minecraft",
+    "name": "waterlily",
+    "damage": "0",
+    "count": "32"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_electric_furnace_off",
+    "damage": "0",
+    "count": "31"
+  },
+  {
+    "package": "forestry",
+    "name": "candle",
+    "damage": "0",
+    "count": "31"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "32",
+    "count": "31"
+  },
+  {
+    "package": "chisel",
+    "name": "factory",
+    "damage": "0",
+    "count": "30"
+  },
+  {
+    "package": "ic2",
+    "name": "dust",
+    "damage": "9",
+    "count": "30"
+  },
+  {
+    "package": "minecraft",
+    "name": "leather",
+    "damage": "0",
+    "count": "30"
+  },
+  {
+    "package": "minecraft",
+    "name": "porkchop",
+    "damage": "0",
+    "count": "30"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_uranium_scorched",
+    "damage": "0",
+    "count": "29"
+  },
+  {
+    "package": "minecraft",
+    "name": "magma_cream",
+    "damage": "0",
+    "count": "29"
+  },
+  {
+    "package": "minecraft",
+    "name": "beef",
+    "damage": "0",
+    "count": "29"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "39",
+    "count": "28"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_white",
+    "damage": "0",
+    "count": "27"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_revolver_lead_ammo",
+    "damage": "0",
+    "count": "27"
+  },
+  {
+    "package": "techreborn",
+    "name": "ore",
+    "damage": "8",
+    "count": "27"
+  },
+  {
+    "package": "ic2",
+    "name": "filled_tin_can",
+    "damage": "0",
+    "count": "27"
+  },
+  {
+    "package": "minecraft",
+    "name": "spider_eye",
+    "damage": "0",
+    "count": "27"
+  },
+  {
+    "package": "flansmod",
+    "name": "fiberglass",
+    "damage": "0",
+    "count": "26"
+  },
+  {
+    "package": "chisel",
+    "name": "tyrian",
+    "damage": "1",
+    "count": "26"
+  },
+  {
+    "package": "hbm",
+    "name": "tape_recorder",
+    "damage": "0",
+    "count": "26"
+  },
+  {
+    "package": "ic2",
+    "name": "cable",
+    "damage": "3",
+    "count": "26"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_gneiss_gas",
+    "damage": "0",
+    "count": "25"
+  },
+  {
+    "package": "hbm",
+    "name": "ammo_22lr",
+    "damage": "0",
+    "count": "25"
+  },
+  {
+    "package": "hbm",
+    "name": "twinkie",
+    "damage": "0",
+    "count": "25"
+  },
+  {
+    "package": "hbm",
+    "name": "canister_fuel",
+    "damage": "0",
+    "count": "25"
+  },
+  {
+    "package": "hbm",
+    "name": "photo_panel",
+    "damage": "0",
+    "count": "24"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_uranium_fuel",
+    "damage": "0",
+    "count": "24"
+  },
+  {
+    "package": "minecraft",
+    "name": "melon_seeds",
+    "damage": "0",
+    "count": "24"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_poison",
+    "damage": "0",
+    "count": "23"
+  },
+  {
+    "package": "railcraft",
+    "name": "tank_steel_valve",
+    "damage": "0",
+    "count": "23"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "23",
+    "count": "23"
+  },
+  {
+    "package": "ic2",
+    "name": "crafting",
+    "damage": "10",
+    "count": "23"
+  },
+  {
+    "package": "minecraft",
+    "name": "quartz_block",
+    "damage": "0",
+    "count": "23"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_targeting_tier1",
+    "damage": "0",
+    "count": "22"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "167",
+    "count": "22"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "1",
+    "count": "22"
+  },
+  {
+    "package": "minecraft",
+    "name": "sign",
+    "damage": "0",
+    "count": "22"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_revolver_iron_ammo",
+    "damage": "0",
+    "count": "21"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_technetium",
+    "damage": "0",
+    "count": "21"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "195",
+    "count": "21"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_apple",
+    "damage": "0",
+    "count": "21"
+  },
+  {
+    "package": "minecraft",
+    "name": "glass_pane",
+    "damage": "0",
+    "count": "21"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_stairs",
+    "damage": "0",
+    "count": "21"
+  },
+  {
+    "package": "minecraft",
+    "name": "red_mushroom",
+    "damage": "0",
+    "count": "21"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "22",
+    "count": "20"
+  },
+  {
+    "package": "hbm",
+    "name": "reactor_element",
+    "damage": "0",
+    "count": "20"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_sulfur",
+    "damage": "0",
+    "count": "20"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_black",
+    "damage": "0",
+    "count": "20"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_sulfur",
+    "damage": "0",
+    "count": "20"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_lanthanium_tiny",
+    "damage": "0",
+    "count": "20"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "352",
+    "count": "20"
+  },
+  {
+    "package": "minecraft",
+    "name": "potato",
+    "damage": "0",
+    "count": "20"
+  },
+  {
+    "package": "minecraft",
+    "name": "gold_nugget",
+    "damage": "0",
+    "count": "20"
+  },
+  {
+    "package": "hbm",
+    "name": "red_barrel",
+    "damage": "0",
+    "count": "19"
+  },
+  {
+    "package": "hbm",
+    "name": "casing_50",
+    "damage": "0",
+    "count": "19"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_cobalt_tiny",
+    "damage": "0",
+    "count": "19"
+  },
+  {
+    "package": "minecraft",
+    "name": "sandstone",
+    "damage": "0",
+    "count": "19"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_vanilla",
+    "damage": "3",
+    "count": "18"
+  },
+  {
+    "package": "hbm",
+    "name": "brick_concrete_mossy",
+    "damage": "0",
+    "count": "18"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_gneiss_asbestos",
+    "damage": "0",
+    "count": "17"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_red_copper",
+    "damage": "0",
+    "count": "17"
+  },
+  {
+    "package": "extratrees",
+    "name": "food",
+    "damage": "45",
+    "count": "17"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "70",
+    "count": "17"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "2",
+    "count": "17"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_door",
+    "damage": "0",
+    "count": "17"
+  },
+  {
+    "package": "hbm",
+    "name": "rod_empty",
+    "damage": "0",
+    "count": "16"
+  },
+  {
+    "package": "hbm",
+    "name": "nuclear_waste",
+    "damage": "0",
+    "count": "16"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "60",
+    "count": "16"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "1024",
+    "count": "16"
+  },
+  {
+    "package": "ic2",
+    "name": "upgrade",
+    "damage": "0",
+    "count": "16"
+  },
+  {
+    "package": "ic2",
+    "name": "hex_heat_storage",
+    "damage": "0",
+    "count": "16"
+  },
+  {
+    "package": "ic2",
+    "name": "misc_resource",
+    "damage": "2",
+    "count": "16"
+  },
+  {
+    "package": "xreliquary",
+    "name": "bullet",
+    "damage": "0",
+    "count": "15"
+  },
+  {
+    "package": "chisel",
+    "name": "antiblock",
+    "damage": "15",
+    "count": "15"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_difurnace_off",
+    "damage": "0",
+    "count": "15"
+  },
+  {
+    "package": "hbm",
+    "name": "sellafield_0",
+    "damage": "0",
+    "count": "15"
+  },
+  {
+    "package": "hbm",
+    "name": "pole_satellite_receiver",
+    "damage": "0",
+    "count": "15"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_gneiss_uranium_scorched",
+    "damage": "0",
+    "count": "15"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "226",
+    "count": "15"
+  },
+  {
+    "package": "minecraft",
+    "name": "water_bucket",
+    "damage": "0",
+    "count": "15"
+  },
+  {
+    "package": "flansmod",
+    "name": "sasboots",
+    "damage": "0",
+    "count": "14"
+  },
+  {
+    "package": "buildcrafttransport",
+    "name": "pipe_gold_item",
+    "damage": "0",
+    "count": "14"
+  },
+  {
+    "package": "hbm",
+    "name": "deco_pipe",
+    "damage": "0",
+    "count": "14"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_titanium",
+    "damage": "0",
+    "count": "14"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_niter",
+    "damage": "0",
+    "count": "14"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_magnetized_tungsten",
+    "damage": "0",
+    "count": "14"
+  },
+  {
+    "package": "ic2",
+    "name": "upgrade",
+    "damage": "1",
+    "count": "14"
+  },
+  {
+    "package": "minecraft",
+    "name": "gunpowder",
+    "damage": "0",
+    "count": "14"
+  },
+  {
+    "package": "minecraft",
+    "name": "oak_stairs",
+    "damage": "0",
+    "count": "14"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "1",
+    "count": "13"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_vanilla",
+    "damage": "6",
+    "count": "13"
+  },
+  {
+    "package": "hbm",
+    "name": "ammo_9mm",
+    "damage": "0",
+    "count": "13"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_u238",
+    "damage": "0",
+    "count": "13"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_filter",
+    "damage": "0",
+    "count": "13"
+  },
+  {
+    "package": "forestry",
+    "name": "fruits",
+    "damage": "0",
+    "count": "13"
+  },
+  {
+    "package": "techreborn",
+    "name": "ore",
+    "damage": "5",
+    "count": "13"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "165",
+    "count": "13"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "162",
+    "count": "13"
+  },
+  {
+    "package": "ic2",
+    "name": "resource",
+    "damage": "4",
+    "count": "13"
+  },
+  {
+    "package": "minecraft",
+    "name": "egg",
+    "damage": "0",
+    "count": "13"
+  },
+  {
+    "package": "minecraft",
+    "name": "brown_mushroom",
+    "damage": "0",
+    "count": "13"
+  },
+  {
+    "package": "immersiveengineering",
+    "name": "metal_decoration1",
+    "damage": "1",
+    "count": "12"
+  },
+  {
+    "package": "chisel",
+    "name": "stonebrick",
+    "damage": "3",
+    "count": "12"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_32",
+    "damage": "1",
+    "count": "12"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_0",
+    "damage": "1",
+    "count": "12"
+  },
+  {
+    "package": "hbm",
+    "name": "factory_titanium_core",
+    "damage": "0",
+    "count": "12"
+  },
+  {
+    "package": "hbm",
+    "name": "ammo_50ae",
+    "damage": "0",
+    "count": "12"
+  },
+  {
+    "package": "hbm",
+    "name": "waste_uranium",
+    "damage": "0",
+    "count": "12"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_niobium_tiny",
+    "damage": "0",
+    "count": "12"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "stone",
+    "damage": "0",
+    "count": "12"
+  },
+  {
+    "package": "extratrees",
+    "name": "food",
+    "damage": "49",
+    "count": "12"
+  },
+  {
+    "package": "forestry",
+    "name": "honey_drop",
+    "damage": "0",
+    "count": "12"
+  },
+  {
+    "package": "minecraft",
+    "name": "skull",
+    "damage": "2",
+    "count": "12"
+  },
+  {
+    "package": "flansmod",
+    "name": "marineboots",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_modded_1",
+    "damage": "8",
+    "count": "11"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "filter",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "hbm",
+    "name": "red_pylon",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "hbm",
+    "name": "pole_top",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_gray_stairs",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "hbm",
+    "name": "coke",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_neptunium",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "minecraft",
+    "name": "pumpkin_seeds",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "minecraft",
+    "name": "sugar",
+    "damage": "0",
+    "count": "11"
+  },
+  {
+    "package": "minecraft",
+    "name": "log",
+    "damage": "2",
+    "count": "11"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "quartz_glass",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_32",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_0",
+    "damage": "2",
+    "count": "10"
+  },
+  {
+    "package": "hbm",
+    "name": "sellafield_slaked",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "hbm",
+    "name": "brick_concrete_cracked",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "hbm",
+    "name": "plate_saturnite",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "hbm",
+    "name": "bottle_cherry",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_pu_mix",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "forestry",
+    "name": "bee_combs",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "glass",
+    "damage": "3",
+    "count": "10"
+  },
+  {
+    "package": "minecraft",
+    "name": "beetroot_seeds",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "minecraft",
+    "name": "acacia_door",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "minecraft",
+    "name": "detector_rail",
+    "damage": "0",
+    "count": "10"
+  },
+  {
+    "package": "flansmod",
+    "name": "kskbody",
+    "damage": "0",
+    "count": "9"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "20",
+    "count": "9"
+  },
+  {
+    "package": "yabba",
+    "name": "item_barrel",
+    "damage": "0",
+    "count": "9"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "4",
+    "count": "9"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "log_greatwood",
+    "damage": "0",
+    "count": "9"
+  },
+  {
+    "package": "chisel",
+    "name": "basalt1",
+    "damage": "2",
+    "count": "9"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_0",
+    "damage": "7",
+    "count": "9"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_revolver",
+    "damage": "0",
+    "count": "9"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "224",
+    "count": "9"
+  },
+  {
+    "package": "minecraft",
+    "name": "feather",
+    "damage": "0",
+    "count": "9"
+  },
+  {
+    "package": "minecraft",
+    "name": "activator_rail",
+    "damage": "0",
+    "count": "9"
+  },
+  {
+    "package": "minecraft",
+    "name": "anvil",
+    "damage": "0",
+    "count": "9"
+  },
+  {
+    "package": "minecraft",
+    "name": "ladder",
+    "damage": "0",
+    "count": "9"
+  },
+  {
+    "package": "flansmod",
+    "name": "blacktrousers",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "blockcraftery",
+    "name": "editable_block",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "range_addon",
+    "damage": "3",
+    "count": "8"
+  },
+  {
+    "package": "flansmod",
+    "name": "fuelcan",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "10",
+    "count": "8"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "2",
+    "count": "8"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "23",
+    "count": "8"
+  },
+  {
+    "package": "chisel",
+    "name": "lavastone",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "projectx",
+    "name": "xycronium_structure",
+    "damage": "14",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "sellafield_2",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "deco_pipe_quad",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "ammo_50bmg",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "primer_50",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_red_copper",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_red_copper",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_schraranium",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_revolver_gold",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "bathwater",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "serum",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "hbm",
+    "name": "stealth_boy",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "railcraft",
+    "name": "plate",
+    "damage": "6",
+    "count": "8"
+  },
+  {
+    "package": "railcraft",
+    "name": "tank_iron_gauge",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "2050",
+    "count": "8"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "355",
+    "count": "8"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "321",
+    "count": "8"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "166",
+    "count": "8"
+  },
+  {
+    "package": "ic2",
+    "name": "plate",
+    "damage": "10",
+    "count": "8"
+  },
+  {
+    "package": "ic2",
+    "name": "te",
+    "damage": "41",
+    "count": "8"
+  },
+  {
+    "package": "minecraft",
+    "name": "minecart",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "minecraft",
+    "name": "stained_glass",
+    "damage": "15",
+    "count": "8"
+  },
+  {
+    "package": "minecraft",
+    "name": "stained_glass",
+    "damage": "0",
+    "count": "8"
+  },
+  {
+    "package": "flansmod",
+    "name": "spetsnazboots",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "flansmod",
+    "name": "blacksweater",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "range_addon",
+    "damage": "11",
+    "count": "7"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "laser_lens",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "buildcrafttransport",
+    "name": "pipe_wood_item",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "techreborn",
+    "name": "plates",
+    "damage": "32",
+    "count": "7"
+  },
+  {
+    "package": "torchmaster",
+    "name": "feral_flare_lantern",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "12",
+    "count": "7"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "facade",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_emerald",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_pu239",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_asbestos",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_generic",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "hbm",
+    "name": "heart_piece",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "extratrees",
+    "name": "drink",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "techreborn",
+    "name": "machine_casing",
+    "damage": "1",
+    "count": "7"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "895",
+    "count": "7"
+  },
+  {
+    "package": "ic2",
+    "name": "crafting",
+    "damage": "15",
+    "count": "7"
+  },
+  {
+    "package": "ic2",
+    "name": "rubber_wood",
+    "damage": "0",
+    "count": "7"
+  },
+  {
+    "package": "flansmod",
+    "name": "spetsnazbody",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "flansmod",
+    "name": "marinehelmet",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "flansmod",
+    "name": "juggernautbody",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "flansmod",
+    "name": "sasbody",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "flansmod",
+    "name": "balaclava",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "flansmod",
+    "name": "gignboots",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "flansmod",
+    "name": "marinebody",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "buildcrafttransport",
+    "name": "pipe_wood_fluid",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "11",
+    "count": "6"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_vanilla",
+    "damage": "4",
+    "count": "6"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_vanilla",
+    "damage": "2",
+    "count": "6"
+  },
+  {
+    "package": "immersiveengineering",
+    "name": "material",
+    "damage": "2",
+    "count": "6"
+  },
+  {
+    "package": "chisel",
+    "name": "tyrian",
+    "damage": "10",
+    "count": "6"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "cover",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_puf6_tank",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_uf6_tank",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "coil_gold_torus",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "bottle_opener",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "turbine_tungsten",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "ducttape",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_cloud",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_beryllium",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "hbm",
+    "name": "bomb_caller",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "gravisuite",
+    "name": "crafting",
+    "damage": "1",
+    "count": "6"
+  },
+  {
+    "package": "railcraft",
+    "name": "cart_cargo",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "229",
+    "count": "6"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "227",
+    "count": "6"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "193",
+    "count": "6"
+  },
+  {
+    "package": "minecraft",
+    "name": "map",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "minecraft",
+    "name": "chicken",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "minecraft",
+    "name": "book",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "minecraft",
+    "name": "saddle",
+    "damage": "0",
+    "count": "6"
+  },
+  {
+    "package": "flansmod",
+    "name": "marinepants",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "flansmod",
+    "name": "kskpants",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "flansmod",
+    "name": "ak74ammo",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "flansmod",
+    "name": "sashelmet",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "curio",
+    "damage": "1",
+    "count": "5"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "part",
+    "damage": "120",
+    "count": "5"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "39",
+    "count": "5"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "8",
+    "count": "5"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_48",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "crate_steel",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "sellafield_3",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_meteor_copper",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "concrete_yellow",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "brick_concrete_broken",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "reinforced_stone",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "fuel_tank_small",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "rotor_steel",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "ammo_rocket",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "bottle_quantum",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "wiring_red_copper",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "nugget_beryllium",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_cerium",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "railcraft",
+    "name": "armor_overalls",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "forestry",
+    "name": "logs.0",
+    "damage": "3",
+    "count": "5"
+  },
+  {
+    "package": "ic2",
+    "name": "cable",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "minecraft",
+    "name": "chest_minecart",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "minecraft",
+    "name": "hopper",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "minecraft",
+    "name": "sticky_piston",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_rail",
+    "damage": "0",
+    "count": "5"
+  },
+  {
+    "package": "flansmod",
+    "name": "swatbody",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "flansmod",
+    "name": "kskhelmet",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "flansmod",
+    "name": "swathelmet",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "flansmod",
+    "name": "gignbody",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "flansmod",
+    "name": "bulldozerboots",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "flansmod",
+    "name": "kskboots",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "blockcraftery",
+    "name": "editable_stairs",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "black_hole_label",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "flansmod",
+    "name": "fuelcan",
+    "damage": "83",
+    "count": "4"
+  },
+  {
+    "package": "buildcrafttransport",
+    "name": "pipe_void_item",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "techreborn",
+    "name": "smalldust",
+    "damage": "61",
+    "count": "4"
+  },
+  {
+    "package": "techreborn",
+    "name": "smalldust",
+    "damage": "24",
+    "count": "4"
+  },
+  {
+    "package": "xreliquary",
+    "name": "magazine",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_vanilla",
+    "damage": "1",
+    "count": "4"
+  },
+  {
+    "package": "powersuits",
+    "name": "powerarmorcomponent",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "teslacorelib",
+    "name": "speed_tier2",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "twilightforest",
+    "name": "firefly",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "chisel",
+    "name": "basalt2",
+    "damage": "7",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_detector",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "fusion_hatch",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "meteor_battery",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "meteor_pillar",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "grenade_mirv",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "wire_aluminium",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "casing_buckshot",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_copper",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_thorium",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "can_luna",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "can_creature",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "rod_dual_empty",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_niobium",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_boron",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_tcalloy",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "crate_caller",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "fluid_barrel_full",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "fusion_core",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "hbm",
+    "name": "part_copper",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "forestry",
+    "name": "bee_princess_ge",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "forestry",
+    "name": "beeswax",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "thermalexpansion",
+    "name": "dynamo",
+    "damage": "2",
+    "count": "4"
+  },
+  {
+    "package": "ic2",
+    "name": "cable",
+    "damage": "2",
+    "count": "4"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "3",
+    "count": "4"
+  },
+  {
+    "package": "minecraft",
+    "name": "bowl",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "minecraft",
+    "name": "nether_brick_stairs",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "minecraft",
+    "name": "nether_brick_fence",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "minecraft",
+    "name": "stonebrick",
+    "damage": "3",
+    "count": "4"
+  },
+  {
+    "package": "minecraft",
+    "name": "stonebrick",
+    "damage": "0",
+    "count": "4"
+  },
+  {
+    "package": "flansmod",
+    "name": "spetsnazpants",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "m16a4ammo",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "juggernauthelmetbrown",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "gignpants",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "juggernautpants",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "spetsnazhelmet",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "mp5ammo",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "cloakergoggles",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "juggernautboots",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "saspants",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "petrified_fuel_generator",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "techreborn",
+    "name": "part",
+    "damage": "17",
+    "count": "3"
+  },
+  {
+    "package": "xreliquary",
+    "name": "magazine",
+    "damage": "9",
+    "count": "3"
+  },
+  {
+    "package": "xreliquary",
+    "name": "glowing_water",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "3",
+    "count": "3"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_modded_1",
+    "damage": "7",
+    "count": "3"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_modded_1",
+    "damage": "6",
+    "count": "3"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_modded_1",
+    "damage": "3",
+    "count": "3"
+  },
+  {
+    "package": "modularrouters",
+    "name": "blank_module",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "modularrouters",
+    "name": "item_router",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "interface",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "fusion_conductor",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_converter_rf_he",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "tesla",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "det_cord",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "block_meteor",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_nether_coal",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "reinforced_brick",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "hull_big_titanium",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "hull_small_steel",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "clip_revolver_lead",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "ammo_20gauge_incendiary",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "coil_gold",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "mechanism_rifle_2",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_cinnebar",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "plate_dalekanium",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "pudding",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "bolt_dura_steel",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "toothpicks",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "cordite",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_thermite",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_cerium_tiny",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_boron_tiny",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_starmetal",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_advanced_cell",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "stamp_obsidian_wire",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "morning_glory",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_kit_2",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "hbm",
+    "name": "syringe_poison",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "stone",
+    "damage": "3",
+    "count": "3"
+  },
+  {
+    "package": "railcraft",
+    "name": "tool_spike_maul_iron",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "forestry",
+    "name": "miner_bag",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "forestry",
+    "name": "scoop",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "65",
+    "count": "3"
+  },
+  {
+    "package": "ic2",
+    "name": "glass",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "ic2",
+    "name": "te",
+    "damage": "79",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_horse_armor",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "speckled_melon",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "cooked_chicken",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "repeater",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_sword",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "fence",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "redstone_torch",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "sapling",
+    "damage": "2",
+    "count": "3"
+  },
+  {
+    "package": "minecraft",
+    "name": "grass",
+    "damage": "0",
+    "count": "3"
+  },
+  {
+    "package": "flansmod",
+    "name": "bulldozerbody",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "flansmod",
+    "name": "juggernautbodybrown",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "flansmod",
+    "name": "m249ammo",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "flansmod",
+    "name": "gignhelmet",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "flansmod",
+    "name": "mwparachute",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "range_addon",
+    "damage": "4",
+    "count": "2"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "block_placer",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "block_destroyer",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "flansmod",
+    "name": "shell",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "techreborn",
+    "name": "plates",
+    "damage": "8",
+    "count": "2"
+  },
+  {
+    "package": "techreborn",
+    "name": "part",
+    "damage": "15",
+    "count": "2"
+  },
+  {
+    "package": "techreborn",
+    "name": "part",
+    "damage": "13",
+    "count": "2"
+  },
+  {
+    "package": "xreliquary",
+    "name": "angelic_feather",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_modded_1",
+    "damage": "5",
+    "count": "2"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_modded_1",
+    "damage": "1",
+    "count": "2"
+  },
+  {
+    "package": "bibliocraft",
+    "name": "armorstand",
+    "damage": "4",
+    "count": "2"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "part",
+    "damage": "260",
+    "count": "2"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "part",
+    "damage": "241",
+    "count": "2"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "part",
+    "damage": "36",
+    "count": "2"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_0",
+    "damage": "4",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "decon",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_nuke_furnace_off",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "anvil_steel",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_battery",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "glass_lead",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "glass_boron",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "block_uranium",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "meteor_brick_chiseled",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_nether_plutonium",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_nether_cobalt",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "reinforced_glass",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "rbmk_lid_glass",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "rbmk_lid",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "book_guide_book",
+    "damage": "1",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "grenade_smart",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "grenade_strong",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "clip_lever_action",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_spark_ammo",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "coil_advanced_alloy",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_cobalt",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "template_folder",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "can_bepis",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_kerosene",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_fried",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_beef",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "bolt_tungsten",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "motor_desh",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_bromine",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_neodymium",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_zirconium",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "128",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask",
+    "damage": "165",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "fluid_tank_full",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "blades_steel",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "armor_polish",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "syringe_antidote",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "syringe_awesome",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "hbm",
+    "name": "dosimeter",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "projectred-core",
+    "name": "drawplate",
+    "damage": "1",
+    "count": "2"
+  },
+  {
+    "package": "microblockcbe",
+    "name": "stone_rod",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "railcraft",
+    "name": "locomotive_steam_solid",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "railcraft",
+    "name": "dust",
+    "damage": "7",
+    "count": "2"
+  },
+  {
+    "package": "railcraft",
+    "name": "ingot",
+    "damage": "6",
+    "count": "2"
+  },
+  {
+    "package": "railcraft",
+    "name": "tool_crowbar_iron",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "forestry",
+    "name": "sapling",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "forestry",
+    "name": "kit_shovel",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "1025",
+    "count": "2"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "323",
+    "count": "2"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "256",
+    "count": "2"
+  },
+  {
+    "package": "ic2",
+    "name": "crafting",
+    "damage": "13",
+    "count": "2"
+  },
+  {
+    "package": "ic2",
+    "name": "te",
+    "damage": "44",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "record_cat",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "lead",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "rabbit",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "hopper_minecart",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "poisonous_potato",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "ghast_tear",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "boat",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_helmet",
+    "damage": "77",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_sword",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "367",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "361",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "358",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "308",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "223",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "164",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "double_plant",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "prismarine",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "redstone_lamp",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_brick_stairs",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "chest",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "minecraft",
+    "name": "piston",
+    "damage": "0",
+    "count": "2"
+  },
+  {
+    "package": "flansmod",
+    "name": "hellfire",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "barrettammo",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "exoskeletonhelmet",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "p90",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "deserteagle",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "juggernautbootsbrown",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "juggernautpantsbrown",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "rpd",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "rpg",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "mwmedkit",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "minigun",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "g3",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "skorpion",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "humvee",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "aug",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "bulldozerhelmet",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "clayandsand",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "ak74",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "uziammo",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "barrett",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "m16a4",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "a91",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "mwarmour_item",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "exoskeletonboots",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "juggernauthelmet",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "sigp226",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "bulldozerlegs",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "exoskeletonbody",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "flanmwreddot",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "flanmwacog",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "guideapi",
+    "name": "modularrouters-guidebook",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "blockcraftery",
+    "name": "editable_door",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "blockcraftery",
+    "name": "editable_trap_door",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "retroexchange",
+    "name": "transmutation_stone",
+    "damage": "1310",
+    "count": "1"
+  },
+  {
+    "package": "retroexchange",
+    "name": "transmutation_stone",
+    "damage": "1290",
+    "count": "1"
+  },
+  {
+    "package": "retroexchange",
+    "name": "transmutation_stone",
+    "damage": "828",
+    "count": "1"
+  },
+  {
+    "package": "retroexchange",
+    "name": "transmutation_stone",
+    "damage": "64",
+    "count": "1"
+  },
+  {
+    "package": "magicbees",
+    "name": "beecomb",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "fortune_addon",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "range_addon",
+    "damage": "9",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "range_addon",
+    "damage": "8",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "pink_slime_ingot",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "mob_imprisonment_tool",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "dryrubber",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "pitiful_fuel_generator",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "latex_processing_unit",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "tree_fluid_extractor",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "flansworkbench_item",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "v4engine",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "wheel",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "advancedmetalcockpit",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "vehicleseat",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "advancedtankbody",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "lighttankbody",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "triplanewing",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "denseredstonecoil",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "largeelectricengine",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "flansmod",
+    "name": "fuelcan",
+    "damage": "349",
+    "count": "1"
+  },
+  {
+    "package": "chiselsandbits",
+    "name": "chisel_diamond",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "buildcrafttransport",
+    "name": "pipe_gold_power",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "buildcrafttransport",
+    "name": "pipe_wood_power",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "buildcrafttransport",
+    "name": "pipe_void_fluid",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "techreborn",
+    "name": "upgrades",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "techreborn",
+    "name": "dynamiccell",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "techreborn",
+    "name": "wrench",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "techreborn",
+    "name": "part",
+    "damage": "24",
+    "count": "1"
+  },
+  {
+    "package": "techreborn",
+    "name": "part",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "techreborn",
+    "name": "dust",
+    "damage": "41",
+    "count": "1"
+  },
+  {
+    "package": "buildcraftcore",
+    "name": "engine",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "worldcontrol",
+    "name": "thermometer",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "torchmaster",
+    "name": "terrain_lighter",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "torchmaster",
+    "name": "mega_torch",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thaumictinkerer",
+    "name": "share_book",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "soulshardsrespawn",
+    "name": "soul_shard",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "soulshardsrespawn",
+    "name": "vile_sword",
+    "damage": "69",
+    "count": "1"
+  },
+  {
+    "package": "xreliquary",
+    "name": "handgun",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "xreliquary",
+    "name": "infernal_tear",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_charm_fragment",
+    "damage": "3",
+    "count": "1"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "16",
+    "count": "1"
+  },
+  {
+    "package": "xreliquary",
+    "name": "mob_ingredient",
+    "damage": "9",
+    "count": "1"
+  },
+  {
+    "package": "xreliquary",
+    "name": "alkahestry_tome",
+    "damage": "937",
+    "count": "1"
+  },
+  {
+    "package": "plethora",
+    "name": "module",
+    "damage": "5",
+    "count": "1"
+  },
+  {
+    "package": "netherendingores",
+    "name": "ore_nether_vanilla",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "ironchest",
+    "name": "iron_chest",
+    "damage": "7",
+    "count": "1"
+  },
+  {
+    "package": "immersiveengineering",
+    "name": "tool",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "immersiveengineering",
+    "name": "material",
+    "damage": "4",
+    "count": "1"
+  },
+  {
+    "package": "twilightforest",
+    "name": "twilight_sapling",
+    "damage": "4",
+    "count": "1"
+  },
+  {
+    "package": "twilightforest",
+    "name": "cicada",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "modularrouters",
+    "name": "filter",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "modularrouters",
+    "name": "module",
+    "damage": "9",
+    "count": "1"
+  },
+  {
+    "package": "modularrouters",
+    "name": "module",
+    "damage": "6",
+    "count": "1"
+  },
+  {
+    "package": "modularrouters",
+    "name": "module",
+    "damage": "5",
+    "count": "1"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "crimson_boots",
+    "damage": "189",
+    "count": "1"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "crimson_plate_chest",
+    "damage": "194",
+    "count": "1"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "thaumometer",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "scribing_tools",
+    "damage": "7",
+    "count": "1"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "scribing_tools",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "curio",
+    "damage": "6",
+    "count": "1"
+  },
+  {
+    "package": "chisel",
+    "name": "chisel_diamond",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "chisel",
+    "name": "chisel_iron",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "part",
+    "damage": "441",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "part",
+    "damage": "220",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "52",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "43",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "41",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "26",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "network_tool",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "nether_quartz_cutting_knife",
+    "damage": "36",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "energy_cell",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "wireless_access_point",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "forge",
+    "name": "bucketfilled",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thaumcraft",
+    "name": "cinderpearl",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "filter",
+    "damage": "2",
+    "count": "1"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "servo",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "servo",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thermaldynamics",
+    "name": "duct_0",
+    "damage": "9",
+    "count": "1"
+  },
+  {
+    "package": "projectx",
+    "name": "color_scanner",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "projectred-expansion",
+    "name": "machine2",
+    "damage": "10",
+    "count": "1"
+  },
+  {
+    "package": "projectred-expansion",
+    "name": "machine2",
+    "damage": "8",
+    "count": "1"
+  },
+  {
+    "package": "projectred-expansion",
+    "name": "machine2",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "projectred-expansion",
+    "name": "plan",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "peripheralsplusone",
+    "name": "fork",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "peripheralsplusone",
+    "name": "plastic_card",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "peripheralsplusone",
+    "name": "ai_chat_box",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "peripheralsplusone",
+    "name": "player_sensor",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "vent_cloud",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "watz_element",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "reactor_computer",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_drill",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_flare",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_well",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "anvil_ferrouranium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_condenser",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_turbine",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_press",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_lithium_battery",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_boiler_off",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "sat_dock",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_satlinker",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_solar_boiler",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "safe",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "crate_iron",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "barrel_iron",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_meteor_sulfur",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "ore_meteor_titanium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "reinforced_lamp_on",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "defuser",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "glitch",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "record_glass",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "sliding_blast_door_skin0",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "fins_quad_titanium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "hull_big_steel",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "thruster_large",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "warhead_mirvlet",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "hazmat_kit",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "man_core",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "forge_fluid_identifier",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "book_guide_book",
+    "damage": "2",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "mirror_tool",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "grenade_if_generic",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "grenade_nuclear",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "clip_uzi",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "clip_revolver",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_defabricator_ammo",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_mirv_ammo",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_fatman_ammo",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "ammo_grenade_sleek",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "coil_copper_torus",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "crystal_beryllium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "bobmazon_machines",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "chemistry_template",
+    "damage": "63",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "chemistry_template",
+    "damage": "55",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "chemistry_template",
+    "damage": "48",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "chemistry_template",
+    "damage": "42",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "chemistry_template",
+    "damage": "41",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "chemistry_template",
+    "damage": "40",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "chemistry_template",
+    "damage": "37",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "chemistry_template",
+    "damage": "2",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "assembly_template",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "mask_of_infamy",
+    "damage": "165",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "mask_of_infamy",
+    "damage": "80",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "reer_graar",
+    "damage": "551",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "weapon_pipe_lead",
+    "damage": "250",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "weapon_pipe_lead",
+    "damage": "225",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "weapon_pipe_lead",
+    "damage": "214",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "weapon_pipe_lead",
+    "damage": "201",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "weapon_pipe_lead",
+    "damage": "189",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "weapon_pipe_lead",
+    "damage": "123",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "weapon_pipe_lead",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "weapon_pipe_rusty",
+    "damage": "265",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "crowbar",
+    "damage": "430",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "crowbar",
+    "damage": "396",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "crowbar",
+    "damage": "6",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "500",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "489",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "473",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "466",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "390",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "200",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "91",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "21",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_pickaxe",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_sword",
+    "damage": "60",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_sword",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_hoe",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "alloy_shovel",
+    "damage": "869",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "alloy_shovel",
+    "damage": "707",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "alloy_pickaxe",
+    "damage": "1505",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "alloy_pickaxe",
+    "damage": "1233",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "can_breen",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "can_overcharge",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_napalm",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_fist",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_bhole",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_tomato",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_milk",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "canned_jizz",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "canteen_fab",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "canteen_vodka",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "cotton_candy",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "rtg_unit",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "rod_quad_empty",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_strontium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_neodymium_tiny",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_actinium_tiny",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "bottle_mercury",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "billet_pu_mix",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "billet_u238",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "billet_uranium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_lanthanium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_pu239",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_dura_steel",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "ingot_combine_steel",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_flamer",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_fatman",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_lever_action",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_rpg",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_uzi",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_uboinik",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_revolver_lead",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gun_revolver_iron",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "165",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "158",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "153",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "147",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "140",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "139",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "114",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "109",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "93",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "87",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "78",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "75",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "65",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "40",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "39",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask_m65",
+    "damage": "12",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask",
+    "damage": "131",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "gas_mask",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "t45_boots",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "t45_legs",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "t45_plate",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "t45_helmet",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "starmetal_plate",
+    "damage": "974",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_boots",
+    "damage": "240",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_legs",
+    "damage": "240",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_plate",
+    "damage": "50",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_plate",
+    "damage": "3",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_helmet",
+    "damage": "80",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "steel_helmet",
+    "damage": "6",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "oil_detector",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "upgrade_afterburn_1",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_lithium_cell_6",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_schrabidium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_lithium",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "stamp_50",
+    "damage": "348",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "stamp_steel_circuit",
+    "damage": "4",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "stamp_steel_plate",
+    "damage": "18",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "scrumpy",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "wd40",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "spider_milk",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "insert_era",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "cladding_obsidian",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "radaway",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "hbm",
+    "name": "geiger_counter",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_boots",
+    "damage": "31",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_leggings",
+    "damage": "182",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_leggings",
+    "damage": "31",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_chestplate",
+    "damage": "10",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_helmet",
+    "damage": "31",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "ruby_chestplate",
+    "damage": "136",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_saw",
+    "damage": "6",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_saw",
+    "damage": "5",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_saw",
+    "damage": "4",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_saw",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "ruby_saw",
+    "damage": "338",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "peridot_shovel",
+    "damage": "5",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "sapphire_pickaxe",
+    "damage": "501",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "sapphire_pickaxe",
+    "damage": "424",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "sapphire_pickaxe",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "ruby_axe",
+    "damage": "463",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "ruby_axe",
+    "damage": "460",
+    "count": "1"
+  },
+  {
+    "package": "projectred-exploration",
+    "name": "wool_gin",
+    "damage": "17",
+    "count": "1"
+  },
+  {
+    "package": "projectred-core",
+    "name": "drawplate",
+    "damage": "4",
+    "count": "1"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "400",
+    "count": "1"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "104",
+    "count": "1"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "10",
+    "count": "1"
+  },
+  {
+    "package": "microblockcbe",
+    "name": "microblock",
+    "damage": "2",
+    "count": "1"
+  },
+  {
+    "package": "railcraft",
+    "name": "tool_magnifying_glass",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "railcraft",
+    "name": "armor_boots_steel",
+    "damage": "120",
+    "count": "1"
+  },
+  {
+    "package": "railcraft",
+    "name": "armor_chestplate_steel",
+    "damage": "22",
+    "count": "1"
+  },
+  {
+    "package": "extratrees",
+    "name": "misc",
+    "damage": "6",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "engine_electrical",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "doors.ebony",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "grafter",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "scoop",
+    "damage": "3",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "bee_combs",
+    "damage": "7",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "bee_drone_ge",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "bee_queen_ge",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "broken_bronze_shovel",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "broken_bronze_pickaxe",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "forestry",
+    "name": "impregnated_casing",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "techreborn",
+    "name": "chemical_reactor",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thermalexpansion",
+    "name": "satchel",
+    "damage": "100",
+    "count": "1"
+  },
+  {
+    "package": "thermalexpansion",
+    "name": "tank",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thermalexpansion",
+    "name": "cell",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thermalexpansion",
+    "name": "device",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thermalexpansion",
+    "name": "machine",
+    "damage": "8",
+    "count": "1"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "322",
+    "count": "1"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "260",
+    "count": "1"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "98",
+    "count": "1"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "25",
+    "count": "1"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "upgrade",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "upgrade",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "wrench",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "upgrade",
+    "damage": "4",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "electric_treetap",
+    "damage": "6",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "wrench",
+    "damage": "12",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "wrench",
+    "damage": "3",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "treetap",
+    "damage": "5",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "treetap",
+    "damage": "3",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "heat_storage",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "single_use_battery",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "lapotron_crystal",
+    "damage": "26",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "crafting",
+    "damage": "16",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "misc_resource",
+    "damage": "4",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "jetpack_electric",
+    "damage": "5",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "hazmat_chestplate",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "ic2",
+    "name": "te",
+    "damage": "8",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "acacia_boat",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "splash_potion",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "name_tag",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_horse_armor",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "armor_stand",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "rabbit_foot",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "prismarine_crystals",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "comparator",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "enchanted_book",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "skull",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "skull",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "written_book",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "potion",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "cooked_beef",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "shears",
+    "damage": "10",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "12",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "dye",
+    "damage": "5",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "91",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "86",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "83",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "75",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "51",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "49",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "43",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "41",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_boots",
+    "damage": "29",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_leggings",
+    "damage": "105",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_leggings",
+    "damage": "102",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_leggings",
+    "damage": "98",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_leggings",
+    "damage": "83",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_leggings",
+    "damage": "82",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_leggings",
+    "damage": "65",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_leggings",
+    "damage": "51",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_leggings",
+    "damage": "43",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_chestplate",
+    "damage": "96",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_chestplate",
+    "damage": "67",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_chestplate",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "golden_helmet",
+    "damage": "10",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_leggings",
+    "damage": "173",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_chestplate",
+    "damage": "161",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_helmet",
+    "damage": "121",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_helmet",
+    "damage": "32",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "chainmail_boots",
+    "damage": "133",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "chainmail_boots",
+    "damage": "104",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "chainmail_chestplate",
+    "damage": "171",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "chainmail_helmet",
+    "damage": "99",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "leather_boots",
+    "damage": "59",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "leather_boots",
+    "damage": "52",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "leather_boots",
+    "damage": "51",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "leather_leggings",
+    "damage": "68",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "leather_leggings",
+    "damage": "54",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "string",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_pickaxe",
+    "damage": "38",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_pickaxe",
+    "damage": "8",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_sword",
+    "damage": "126",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_sword",
+    "damage": "59",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_sword",
+    "damage": "57",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_sword",
+    "damage": "54",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_sword",
+    "damage": "28",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "wooden_pickaxe",
+    "damage": "36",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "wooden_sword",
+    "damage": "28",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "coal",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "384",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "380",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "376",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "373",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "372",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "369",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "363",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "362",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "360",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "359",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "356",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "350",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "349",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "344",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "342",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "341",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "336",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "335",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "329",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "328",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "323",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "318",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "305",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "303",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "297",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "291",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "290",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "283",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "279",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "267",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "266",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "263",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "262",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "259",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "243",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "242",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "233",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "229",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "217",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "214",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "208",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "174",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "160",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "156",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "123",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "121",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "106",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "104",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "97",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "68",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "57",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "45",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "bow",
+    "damage": "30",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "flint_and_steel",
+    "damage": "6",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "flint_and_steel",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_pickaxe",
+    "damage": "222",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_shovel",
+    "damage": "224",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_shovel",
+    "damage": "45",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "observer",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "red_sandstone",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "hay_block",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stained_hardened_clay",
+    "damage": "1",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "enchanting_table",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "trapdoor",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "stone_pressure_plate",
+    "damage": "0",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "red_flower",
+    "damage": "8",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "red_flower",
+    "damage": "7",
+    "count": "1"
+  },
+  {
+    "package": "minecraft",
+    "name": "wool",
+    "damage": "8",
+    "count": "1"
+  },
+  {
+    "package": "retroexchange",
+    "name": "transmutation_stone",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "industrialforegoing",
+    "name": "plastic",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "part",
+    "damage": "140",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "56",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "55",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "54",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "44",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "37",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "36",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "35",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "28",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "18",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "17",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "16",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "7",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "material",
+    "damage": "5",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "nether_quartz_cutting_knife",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "appliedenergistics2",
+    "name": "molecular_assembler",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "machine_assembler",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "wire_schrabidium",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "coil_copper",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "wire_copper",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_targeting_tier5",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_targeting_tier4",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_targeting_tier3",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_targeting_tier2",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_gold",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_aluminium",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "circuit_raw",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "plate_desh",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "plate_polymer",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "pipes_steel",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "motor",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "biomass",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_quartz",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "powder_advanced_alloy",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "billet_technetium",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "billet_polonium",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "billet_pu238",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_lithium_cell_3",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_lithium_cell",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_sc_polonium",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_sc_plutonium",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_sc_technetium",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "battery_sc_uranium",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "thermo_element",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "cladding_desh",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "cladding_lead",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "hbm",
+    "name": "cladding_rubber",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "projectred-core",
+    "name": "resource_item",
+    "damage": "251",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "768",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "320",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "291",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "258",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "160",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "96",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "64",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "material",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "upgrade",
+    "damage": "33",
+    "count": "0"
+  },
+  {
+    "package": "thermalfoundation",
+    "name": "storage",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "ic2",
+    "name": "crafting",
+    "damage": "2",
+    "count": "0"
+  },
+  {
+    "package": "ic2",
+    "name": "resource",
+    "damage": "12",
+    "count": "0"
+  },
+  {
+    "package": "ic2",
+    "name": "te",
+    "damage": "78",
+    "count": "0"
+  },
+  {
+    "package": "minecraft",
+    "name": "emerald",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "minecraft",
+    "name": "crafting_table",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_block",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "minecraft",
+    "name": "iron_ore",
+    "damage": "0",
+    "count": "0"
+  },
+  {
+    "package": "minecraft",
+    "name": "sand",
+    "damage": "0",
+    "count": "0"
+  }
+]
