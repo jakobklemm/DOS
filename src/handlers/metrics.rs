@@ -2,11 +2,11 @@
 
 use axum::extract::State;
 
-use crate::states::system::System;
+use crate::states::{system::System, defense::Defense};
 use std::sync::{Arc, Mutex};
 
-pub async fn handle_metrics(State(state): State<Arc<Mutex<System>>>) -> String {
-    let data = state.lock().unwrap();
+pub async fn handle_metrics(State(state): State<Arc<crate::routes::State>>) -> String {
+    let data = state.system.lock().unwrap();
     // println!("{:?}", data);
     data.parse()
 }

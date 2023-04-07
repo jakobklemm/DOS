@@ -7,7 +7,7 @@ use http::header::{InvalidHeaderName, InvalidHeaderValue};
 use serde::{Deserialize, Serialize};
 use std::{
     fmt::{Debug, Display, Formatter},
-    net::AddrParseError,
+    net::AddrParseError, num::{ParseIntError, ParseFloatError},
 };
 use tracing::debug;
 
@@ -121,5 +121,17 @@ impl IntoResponse for TABError {
     fn into_response(self) -> AxumResponse {
         let r = tabresp::ErrorResponse::new(self);
         r.into_response()
+    }
+}
+
+impl From<ParseIntError> for TABError {
+    fn from(value: ParseIntError) -> Self {
+        TABError::Invalid("integer invalid".to_string())
+    }
+}
+
+impl From<ParseFloatError> for TABError {
+    fn from(value: ParseFloatError) -> Self {
+        TABError::Invalid("invalid float".to_string())
     }
 }

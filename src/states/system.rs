@@ -62,7 +62,7 @@ impl System {
             sum += &ret;
         }
 
-        sum += &format!("tab_me_total_count_{}", self.0.len());
+        sum += &format!("tab_me_total_count {}", self.0.len());
 
         sum
     }
