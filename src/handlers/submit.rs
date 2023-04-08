@@ -18,6 +18,7 @@ pub async fn handle_me_submission(
     State(state): State<Arc<crate::routes::State>>,
     body: String,
 ) -> Result<Response<Status>, TABError> {
+    println!("ME Submission");
     let data = &mut *state.system.lock().unwrap();
 
     let lines: Vec<&str> = body.split("\n").collect();
@@ -42,6 +43,7 @@ pub async fn handle_pos_submission(
     State(state): State<Arc<crate::routes::State>>,
     body: String,
 ) -> Result<Response<Status>, TABError> {
+    println!("Position Submission");
     let data = &mut *state.players.lock().unwrap();
     let data = &mut data.0;
 
