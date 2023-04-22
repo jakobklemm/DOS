@@ -1,0 +1,21 @@
+.cargo_test_template: &cargo_test
+  stage: test
+  script:
+    - rustc --version && cargo --version
+    - cargo test --jobs 1
+
+before_script:
+  - git config --global url."https://jakobklemm:${CI_JOB_TOKEN}@gitlab.thearmabois.com/engineering/ccp/tabuid.git".insteadOf "https://gitlab.thearmabois.com/engineering/ccp/tabuid.git"
+  - git config --global url."https://jakobklemm:${CI_JOB_TOKEN}@gitlab.thearmabois.com/engineering/ccp/tabresp.git".insteadOf "https://gitlab.thearmabois.com/engineering/ccp/tabresp.git"
+
+stages:
+  - test
+  - release
+
+stable:cargo:
+  image: rustdocker/rust:stable
+  <<: *cargo_test
+
+nightly:cargo:
+  image: rustdocker/rust:nightly
+  <<: *cargo_test
