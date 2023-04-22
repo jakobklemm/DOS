@@ -19,3 +19,10 @@ stable:cargo:
 nightly:cargo:
   image: rustdocker/rust:nightly
   <<: *cargo_test
+
+build:docker:
+  stage: release
+  script: 
+    - docker build -t tabdos
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    - docker push $CI_COMMIT_REF_SLUG
