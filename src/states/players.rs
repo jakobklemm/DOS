@@ -69,38 +69,21 @@ impl Player {
             }
         }
 
-        println!("{:?}", rs);
-
-        println!("p1: {:?}", p1);
-        println!("p2: {:?}", p2);
-
         let d_x = (p2.position.x - p1.position.x).pow(2) as f64;
         let d_y = (p2.position.z - p1.position.z).pow(2) as f64;
         let d = (d_x + d_y).sqrt();
 
-        println!("d: {}", d);
-
         let a = (rs[0].powi(2) - rs[1].powi(2) + d.powi(2)) / (2.0 * d);
-
-        println!("a: {}", a);
-
         let h = (rs[0].powi(2) - a.powi(2)).sqrt();
-
-        println!("h: {}", h);
 
         let mid_x = p1.position.x as f64 + a * ((p2.position.x as f64 - p1.position.x as f64) / d);
         let mid_z = p1.position.z as f64 + a * ((p2.position.z as f64 - p1.position.z as f64) / d);
-
-        println!("mid: {}, {}", mid_x, mid_z);
         
         let p_x_1 = mid_x + h * (p2.position.z as f64 - p1.position.z as f64) / d;
         let p_z_1 = mid_z + h * (p2.position.x as f64 - p1.position.x as f64) / d;
 
         let p_x_2 = mid_x - h * (p2.position.z as f64 - p1.position.z as f64) / d;
         let p_z_2 = mid_z - h * (p2.position.x as f64 - p1.position.x as f64) / d;
-
-        println!("p1: {}, {}", p_x_1, p_z_1);
-        println!("p2: {}, {}", p_x_2, p_z_2);
 
         let dist_to_x_1 = (p_x_1 + p3.position.x as f64).powi(2);
         let dist_to_z_1 = (p_z_1 + p3.position.z as f64).powi(2);
@@ -121,7 +104,6 @@ impl Player {
                 y: 0,
                 z: p_z_1 as i64
             };
-            println!("Final: {:?}", p);
             return Ok(p);
         } else {
             let p = Position {
@@ -129,11 +111,16 @@ impl Player {
                 y: 0,
                 z: p_z_2 as i64
             };
-            println!("Final: {:?}", p);
             return Ok(p);
         }
 
     }
+}
+
+impl ToString for Position {
+    fn to_string(&self) -> String {
+        return format!("{}, {}, {}", self.x, self.y, self.z);
+    } 
 }
 
 #[derive(Eq, PartialEq, Clone, Debug, Hash)]
