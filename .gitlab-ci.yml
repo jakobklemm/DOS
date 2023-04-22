@@ -14,6 +14,7 @@ stable:cargo:
 
 build:docker:
   stage: release
+  image: rustdocker/rust:stable
   script: 
     - docker build -t tabdos
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD gitlab.thearmabois.com
