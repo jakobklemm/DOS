@@ -4,8 +4,6 @@ use serde::Serialize;
 
 use crate::error::TABError;
 
-use crate::translator::Dictionary;
-
 #[derive(Clone, Debug, Serialize)]
 pub struct System(pub Vec<Element>);
 

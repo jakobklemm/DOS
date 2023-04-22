@@ -4,4 +4,4 @@ COPY ./ ./
 
 RUN cargo build --release
 
-CMD ["./target/release/dos"]
+CMD ["./target/release/DOS"]

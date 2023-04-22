@@ -8,7 +8,6 @@ mod handlers;
 mod models;
 mod states;
 
-mod translator;
 
 use tracing::info;
 
@@ -18,8 +17,6 @@ async fn main() -> Result<(), TABError> {
     tracing::subscriber::set_global_default(subscriber).expect("TODO: panic message");
 
     let app = Application::new();
-
-    let _ = translator::Dictionary::load();
 
     info!("Starting web server");
 
