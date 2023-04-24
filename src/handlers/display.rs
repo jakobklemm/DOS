@@ -36,9 +36,6 @@ pub async fn handle_display(State(state): State<Arc<crate::routes::State>>) -> S
     let mut ret = String::from("var UnminedPlayers = [\n");
 
     for (k, v) in players.0.iter() {
-        if v.position().unwrap().x == 0 && v.position().unwrap().z == 0 {
-            continue;
-        }
         let pl = JSONPosition::from_player(v).unwrap();
         ret += &(pl);
         ret += "\n";

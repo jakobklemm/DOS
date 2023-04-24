@@ -38,8 +38,8 @@ impl Player {
     }
 
     pub fn position(&self) -> Result<Position, TABError> {
-        if self.distances.len() < 3 {
-            // return Err(TABError::default());
+        if self.distances.len() != 3 {
+            return Err(TABError::default());
         }
 
         let mut p1 = Source::new();
@@ -55,7 +55,7 @@ impl Player {
         for (i, (source, distance)) in self.distances.iter().enumerate() {
             rs[i] = *distance;
 
-            // println!("{}", i);
+            println!("Distance {}: {}", i, *distance);
 
             match i {
                 0 => {
@@ -78,6 +78,8 @@ impl Player {
         let a = (rs[0].powi(2) - rs[1].powi(2) + d.powi(2)) / (2.0 * d);
         let h = (rs[0].powi(2) - a.powi(2)).sqrt();
 
+        println!("Values: d: {}, a: {}, h: {}", d, a, h);
+
         let mid_x = p1.position.x as f64 + a * ((p2.position.x as f64 - p1.position.x as f64) / d);
         let mid_z = p1.position.z as f64 + a * ((p2.position.z as f64 - p1.position.z as f64) / d);
 
@@ -86,6 +88,9 @@ impl Player {
 
         let p_x_2 = mid_x - h * (p2.position.z as f64 - p1.position.z as f64) / d;
         let p_z_2 = mid_z - h * (p2.position.x as f64 - p1.position.x as f64) / d;
+
+        println!("Point 1: ({}, {})", p_x_1, p_z_1);
+        println!("Point 2: ({}, {})", p_x_2, p_z_2);
 
         let dist_to_x_1 = (p_x_1 + p3.position.x as f64).powi(2);
         let dist_to_z_1 = (p_z_1 + p3.position.z as f64).powi(2);
@@ -96,6 +101,8 @@ impl Player {
         let dist_to_z_2 = (p_z_2 + p3.position.z as f64).powi(2);
 
         let dist_2 = (dist_to_x_2 + dist_to_z_2).sqrt();
+
+        println!("Distance 1: {}, Distance 2: {}", dist_1, dist_2);
 
         let diff_1 = (rs[2] - dist_1).abs();
         let diff_2 = (rs[2] - dist_2).abs();
