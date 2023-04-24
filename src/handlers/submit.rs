@@ -42,15 +42,18 @@ pub async fn handle_pos_submission(
     State(state): State<Arc<crate::routes::State>>,
     body: String,
 ) -> Result<Response<Status>, TABError> {
-    println!("Position Submission");
     let data = &mut *state.players.lock().unwrap();
     let data = &mut data.0;
+
+    // println!("State: {:?}", &data);
 
     let lines: Vec<&str> = body.split("\n").collect();
 
     let mut source = Source::new();
 
     source.parse(*lines.get(0).ok_or(TABError::default())?);
+
+    println!("Position Submission: {:?}", source);
 
     for (i, line) in lines.iter().enumerate() {
         if i == 0 {
@@ -71,7 +74,7 @@ pub async fn handle_pos_submission(
         }
     }
 
-    // println!("{:?}", data);
+    println!("State: {:?}", data);
 
     let status = Status::default();
     Ok(status.into())

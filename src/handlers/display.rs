@@ -32,10 +32,12 @@ impl JSONPosition {
 
 pub async fn handle_display(State(state): State<Arc<crate::routes::State>>) -> String {
     let players = state.players.lock().unwrap();
+    println!("Handle Display");
 
     let mut ret = String::from("var UnminedPlayers = [\n");
 
     for (k, v) in players.0.iter() {
+        println!("{:?}", v);
         let pl = JSONPosition::from_player(v).unwrap();
         ret += &(pl);
         ret += "\n";

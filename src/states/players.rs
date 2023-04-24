@@ -2,6 +2,8 @@ use std::collections::HashMap;
 
 use serde::Serialize;
 
+use std::hash::{Hash, Hasher};
+
 use crate::error::TABError;
 
 #[derive(PartialEq, Clone, Debug)]
@@ -46,7 +48,7 @@ impl Player {
         let mut p2 = Source::new();
         let mut p3 = Source::new();
 
-        let mut rs: [f64; 1024] = [0.0; 1024];
+        let mut rs: [f64; 16] = [0.0; 16];
 
         println!("info: {:?}", self);
 
@@ -130,10 +132,22 @@ impl ToString for Position {
     }
 }
 
-#[derive(Eq, PartialEq, Clone, Debug, Hash)]
+#[derive(Eq, Clone, Debug)]
 pub struct Source {
     pub id: String,
     pub position: Position,
+}
+
+impl Hash for Source {
+    fn hash<H: Hasher>(&self, state: &mut H) {
+        self.id.hash(state);
+    }
+}
+
+impl PartialEq for Source {
+    fn eq(&self, other: &Self) -> bool {
+        self.id == other.id
+    }
 }
 
 impl Source {
