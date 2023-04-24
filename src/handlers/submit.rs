@@ -28,12 +28,11 @@ pub async fn handle_me_submission(
         }
     }
 
-    println!("{:?}", data.0.len());
+    // println!("{:?}", data.0.len());
     data.0.sort();
     data.0.reverse();
-    let p = serde_json::to_string_pretty(&data.0)?;
-    let _ = fs::write("me.json", &p);
-
+    // let p = serde_json::to_string_pretty(&data.0)?;
+    // let _ = fs::write("me.json", &p);
 
     let status = Status::default();
     Ok(status.into())
@@ -72,7 +71,7 @@ pub async fn handle_pos_submission(
         }
     }
 
-    println!("{:?}", data);
+    // println!("{:?}", data);
 
     let status = Status::default();
     Ok(status.into())

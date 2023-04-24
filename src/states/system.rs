@@ -43,7 +43,7 @@ impl System {
     pub fn parse(&self) -> String {
         // let dict = Dictionary::load();
 
-        let mut sum = String::from("# HELP tab_me Item in the ME system \n# TYPE tab_me counter\n");
+        let mut sum = String::from("# HELP tab_me Item in the ME system\n");
 
         for element in self.0.clone().into_iter() {
             /* if let Some(name) = dict.list.get(&element.name()) {

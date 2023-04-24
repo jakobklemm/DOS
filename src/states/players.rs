@@ -1,9 +1,11 @@
 use std::collections::HashMap;
 
+use serde::Serialize;
+
 use crate::error::TABError;
 
 #[derive(PartialEq, Clone, Debug)]
-pub struct Players (pub HashMap<String, Player>);
+pub struct Players(pub HashMap<String, Player>);
 
 #[derive(PartialEq, Clone, Debug)]
 pub struct Player {
@@ -15,13 +17,13 @@ impl Player {
     pub fn new(name: String, s: Source, d: f64) -> Self {
         let mut distances = HashMap::new();
         distances.insert(s, d);
-        Self {
-            name,
-            distances
-        }
+        Self { name, distances }
     }
 
-    pub fn parse<T>(line: T) -> Result<(String, f64), TABError> where T: Into<String> {
+    pub fn parse<T>(line: T) -> Result<(String, f64), TABError>
+    where
+        T: Into<String>,
+    {
         let line: String = line.into();
         let parts: Vec<&str> = line.split(":").collect();
 
@@ -44,7 +46,7 @@ impl Player {
         let mut p2 = Source::new();
         let mut p3 = Source::new();
 
-        let mut rs: [f64; 3] = [0.0; 3];
+        let mut rs: [f64; 1024] = [0.0; 1024];
 
         println!("info: {:?}", self);
 
@@ -53,7 +55,7 @@ impl Player {
         for (i, (source, distance)) in self.distances.iter().enumerate() {
             rs[i] = *distance;
 
-            println!("{}", i);
+            // println!("{}", i);
 
             match i {
                 0 => {
@@ -65,7 +67,7 @@ impl Player {
                 2 => {
                     p3 = source.clone();
                 }
-                _ => break
+                _ => break,
             }
         }
 
@@ -78,7 +80,7 @@ impl Player {
 
         let mid_x = p1.position.x as f64 + a * ((p2.position.x as f64 - p1.position.x as f64) / d);
         let mid_z = p1.position.z as f64 + a * ((p2.position.z as f64 - p1.position.z as f64) / d);
-        
+
         let p_x_1 = mid_x + h * (p2.position.z as f64 - p1.position.z as f64) / d;
         let p_z_1 = mid_z + h * (p2.position.x as f64 - p1.position.x as f64) / d;
 
@@ -102,25 +104,23 @@ impl Player {
             let p = Position {
                 x: p_x_1 as i64,
                 y: 0,
-                z: p_z_1 as i64
+                z: p_z_1 as i64,
             };
             return Ok(p);
         } else {
             let p = Position {
                 x: p_x_2 as i64,
                 y: 0,
-                z: p_z_2 as i64
+                z: p_z_2 as i64,
             };
             return Ok(p);
         }
-
     }
 }
-
 impl ToString for Position {
     fn to_string(&self) -> String {
         return format!("{}, {}, {}", self.x, self.y, self.z);
-    } 
+    }
 }
 
 #[derive(Eq, PartialEq, Clone, Debug, Hash)]
@@ -133,11 +133,14 @@ impl Source {
     pub fn new() -> Self {
         Source {
             id: String::new(),
-            position: Position { x: 0, y: 0, z: 0 }
+            position: Position { x: 0, y: 0, z: 0 },
         }
     }
 
-    pub fn parse<T>(&mut self, line: T) -> Result<(), TABError> where T: Into<String> {
+    pub fn parse<T>(&mut self, line: T) -> Result<(), TABError>
+    where
+        T: Into<String>,
+    {
         let line: String = line.into();
         let mut parts: Vec<&str> = line.split(":").collect();
 
@@ -150,7 +153,7 @@ impl Source {
         let coords = parts.split_off(1);
 
         let position = Position::parse(coords)?;
-        
+
         self.id = id;
         self.position = position;
 
@@ -160,9 +163,9 @@ impl Source {
 
 #[derive(Eq, PartialEq, Clone, Debug, Hash)]
 pub struct Position {
-    x: i64,
-    y: i64,
-    z: i64
+    pub x: i64,
+    pub y: i64,
+    pub z: i64,
 }
 
 impl Position {
@@ -170,11 +173,7 @@ impl Position {
         let x = parts.get(0).ok_or(TABError::default())?.parse::<i64>()?;
         let y = parts.get(1).ok_or(TABError::default())?.parse::<i64>()?;
         let z = parts.get(2).ok_or(TABError::default())?.parse::<i64>()?;
-        Ok(Self {
-            x,
-            y,
-            z
-        })
+        Ok(Self { x, y, z })
     }
 }
 
