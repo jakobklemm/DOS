@@ -170,10 +170,10 @@ pub struct Position {
 
 impl Position {
     fn parse(parts: Vec<&str>) -> Result<Self, TABError> {
-        let x = parts.get(0).ok_or(TABError::default())?.parse::<i64>()?;
-        let y = parts.get(1).ok_or(TABError::default())?.parse::<i64>()?;
-        let z = parts.get(2).ok_or(TABError::default())?.parse::<i64>()?;
-        Ok(Self { x, y, z })
+        let x = parts.get(0).ok_or(TABError::default())?.parse::<f64>()?;
+        let y = parts.get(1).ok_or(TABError::default())?.parse::<f64>()?;
+        let z = parts.get(2).ok_or(TABError::default())?.parse::<f64>()?;
+        Ok(Self { x: x as i64, y: y as i64, z: z as i64 })
     }
 }
 
